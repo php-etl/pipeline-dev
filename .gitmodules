@@ -1,0 +1,27 @@
+[submodule "bucket-contracts"]
+	path = bucket-contracts
+	url = git@github.com:php-etl/bucket-contracts.git
+[submodule "mapping-contracts"]
+	path = mapping-contracts
+	url = git@github.com:php-etl/mapping-contracts.git
+[submodule "pipeline-contracts"]
+	path = pipeline-contracts
+	url = git@github.com:php-etl/pipeline-contracts.git
+[submodule "pipeline"]
+	path = pipeline
+	url = git@github.com:php-etl/pipeline.git
+[submodule "bucket"]
+	path = bucket
+	url = git@github.com:php-etl/bucket.git
+[submodule "json-flow"]
+	path = json-flow
+	url = git@github.com:php-etl/json-flow.git
+[submodule "spreadsheet-flow"]
+	path = spreadsheet-flow
+	url = git@github.com:php-etl/spreadsheet-flow.git
+[submodule "sql-flow"]
+	path = sql-flow
+	url = git@github.com:php-etl/sql-flow.git
+[submodule "csv-flow"]
+	path = csv-flow
+	url = git@github.com:php-etl/csv-flow.git
